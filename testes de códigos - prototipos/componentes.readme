@@ -1,0 +1,12 @@
+OS COMPONENTES QUE SÃO NECESSÁRIOS PARA PODER ABRIR O SITE JW.ORG E BUSCAR OS ARTIGOS
+EM DESTAQUE:
+- ABRIR O NAVEGADOR - NAVEGAR ATÉ O SITE
+- QUANDO CARREGAR O SITE, BUSCAR PELOS ARTIGOS EM DESTAQUE
+- ESSE PROGRAMA PRECISA FAZER UM RETORNO, COM OS LINKS DOS ARTIGOS E PEDINDO PARA O USUÁRIO
+ESCOLHER.
+- APÓS ESCOLHER O PROGRAMA PRECISA PEGAR O LINK E MONTAR UM MODELO DE ESCRITA PARA O STATUS.
+
+PS: Nesse programa em específico eu já deixei a URL definida, mas caso queira alterar ela,
+ou pedir para que o USUÁRIO digite essa informação, é só fazer um input, isto é, mesmo 
+esquema feita para poder abrir o navegador.
+ - Código Funcionando '🚀🚀🚀'
